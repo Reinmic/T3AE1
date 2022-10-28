@@ -1,3 +1,7 @@
 Torres
 odio la vida
+<<<<<<< HEAD
 usuario 2
+=======
+usuario1
+>>>>>>> 468ca38c1ebe35ef37177a3207ca807540007551
